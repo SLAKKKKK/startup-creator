@@ -22,7 +22,7 @@
 
 <h3>Windows only!</h3>
 
-<h2>if you want to compile it yourself find these steps</h2>
+<h2>if you want to compile it yourself find these steps, else, binarie it's in the <a href="https://github.com/DioBruh/startup-creator/releases/tag/v1">releases</a></h2>
 
 ## 📲 Configuring
 * Change line 
