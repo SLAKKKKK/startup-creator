@@ -22,6 +22,8 @@
 
 <h3>Windows only!</h3>
 
+<h2>if you want to compile it yourself find these steps</h2>
+
 ## 📲 Configuring
 * Change line 
 ```c++
